@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fjmoralesp/portafolio/static/css/main.073c9b0a.css",
+    "main.js": "/fjmoralesp/portafolio/static/js/main.181360eb.js",
+    "static/js/787.ae0d8d37.chunk.js": "/fjmoralesp/portafolio/static/js/787.ae0d8d37.chunk.js",
+    "static/media/logo.svg": "/fjmoralesp/portafolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/fjmoralesp/portafolio/index.html",
+    "main.073c9b0a.css.map": "/fjmoralesp/portafolio/static/css/main.073c9b0a.css.map",
+    "main.181360eb.js.map": "/fjmoralesp/portafolio/static/js/main.181360eb.js.map",
+    "787.ae0d8d37.chunk.js.map": "/fjmoralesp/portafolio/static/js/787.ae0d8d37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.181360eb.js"
+  ]
+}
